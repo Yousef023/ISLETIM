@@ -1,0 +1,22 @@
+===== SORU 1: yonlendirme =====
+Isletim Sistemleri
+dosya acilamadi: yok_dosya.txt
+===== SORU 2: pipe =====
+3
+5
+4
+100000
+ISLETIM SISTEMLERI
+===== SORU 3: kosullu calistirma =====
+dogru
+yedek_calisti
+y
+dosya acilamadi: yok_dosya.txt
+hata_yakalandi
+pipe_kodu_dogru
+===== SORU 4: komut listesi =====
+bir
+iki
+uc
+yine_de_calisir
+===== BITTI =====
